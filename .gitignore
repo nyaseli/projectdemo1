@@ -1,3 +1,19 @@
+# standard CSV file for each person
+*.csv
+
+#hidden api keys
+config*.py
+
+# Google Drive
+desktop.ini
+
+# VSCode hidden file
+.vscode
+
+# Mac hidden files
+DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
